@@ -1,1 +1,1 @@
-this is the git 4 file in first branch 
+this is the git 4 file in first branch , modified in the first branch
