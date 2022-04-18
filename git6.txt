@@ -1,0 +1,1 @@
+This is the file git6 file in the first branch
